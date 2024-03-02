@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/smaranan2019/websitev2/static/css/main.77b369ed.css",
+    "main.js": "/smaranan2019/websitev2/static/js/main.3290e6e5.js",
+    "static/js/415.4d6acbeb.chunk.js": "/smaranan2019/websitev2/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/smaranan2019/websitev2/static/js/787.1ed0c42c.chunk.js",
+    "static/media/itsa.pptx": "/smaranan2019/websitev2/static/media/itsa.4b51b670924016470ea9.pptx",
+    "static/media/bigdata.pdf": "/smaranan2019/websitev2/static/media/bigdata.28d914b001d15f80ad14.pdf",
+    "static/media/flight.png": "/smaranan2019/websitev2/static/media/flight.16b695dd9c8216609b1e.png",
+    "static/media/bigdata.png": "/smaranan2019/websitev2/static/media/bigdata.78e292ce5f0852999be4.png",
+    "static/media/itsa.png": "/smaranan2019/websitev2/static/media/itsa.7e7dc33fbdbd4fb8b1b7.png",
+    "static/media/ninjawoo.png": "/smaranan2019/websitev2/static/media/ninjawoo.a3e3aae730f6e802db7f.png",
+    "static/media/home-main.ai": "/smaranan2019/websitev2/static/media/home-main.d9a4983462b22af1582d.ai",
+    "static/media/fyp.png": "/smaranan2019/websitev2/static/media/fyp.dbc801f2fdc200837bb6.png",
+    "static/media/esd.png": "/smaranan2019/websitev2/static/media/esd.fedce4d660061a490d18.png",
+    "static/media/Frances_Severino_Resume_2024.pdf": "/smaranan2019/websitev2/static/media/Frances_Severino_Resume_2024.5bccf5e4ed1f0025c41a.pdf",
+    "static/media/designer.png": "/smaranan2019/websitev2/static/media/designer.2a95d0feb5d20e8bff7a.png",
+    "static/media/home-bg.jpg": "/smaranan2019/websitev2/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/smaranan2019/websitev2/static/media/logo.c29ef1f335e5f30001d8.png",
+    "static/media/pre.svg": "/smaranan2019/websitev2/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/smaranan2019/websitev2/index.html",
+    "main.77b369ed.css.map": "/smaranan2019/websitev2/static/css/main.77b369ed.css.map",
+    "main.3290e6e5.js.map": "/smaranan2019/websitev2/static/js/main.3290e6e5.js.map",
+    "415.4d6acbeb.chunk.js.map": "/smaranan2019/websitev2/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/smaranan2019/websitev2/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b369ed.css",
+    "static/js/main.3290e6e5.js"
+  ]
+}
