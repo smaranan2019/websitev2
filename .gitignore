@@ -36,4 +36,4 @@ typings/
 node_modules
 
 # Ignore nom build files
-nom/build/*
+build/*
