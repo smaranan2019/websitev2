@@ -34,6 +34,3 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 node_modules
-
-# Ignore nom build files
-build/*
