@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/websitev2/static/css/main.0ad454f0.css",
-    "main.js": "/websitev2/static/js/main.b8a8c187.js",
+    "main.js": "/websitev2/static/js/main.d80a9293.js",
     "static/js/415.4d6acbeb.chunk.js": "/websitev2/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/websitev2/static/js/787.1ed0c42c.chunk.js",
     "static/media/itsa.pptx": "/websitev2/static/media/itsa.4b51b670924016470ea9.pptx",
@@ -12,6 +12,7 @@
     "static/media/ninjawoo.png": "/websitev2/static/media/ninjawoo.a3e3aae730f6e802db7f.png",
     "static/media/home-main.ai": "/websitev2/static/media/home-main.d9a4983462b22af1582d.ai",
     "static/media/fyp.png": "/websitev2/static/media/fyp.dbc801f2fdc200837bb6.png",
+    "static/media/home-main.png": "/websitev2/static/media/home-main.ffbd5a5bc57297b2ae74.png",
     "static/media/esd.png": "/websitev2/static/media/esd.fedce4d660061a490d18.png",
     "static/media/Frances_Severino_Resume_2024.pdf": "/websitev2/static/media/Frances_Severino_Resume_2024.5bccf5e4ed1f0025c41a.pdf",
     "static/media/designer.png": "/websitev2/static/media/designer.2a95d0feb5d20e8bff7a.png",
@@ -20,12 +21,12 @@
     "static/media/pre.svg": "/websitev2/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/websitev2/index.html",
     "main.0ad454f0.css.map": "/websitev2/static/css/main.0ad454f0.css.map",
-    "main.b8a8c187.js.map": "/websitev2/static/js/main.b8a8c187.js.map",
+    "main.d80a9293.js.map": "/websitev2/static/js/main.d80a9293.js.map",
     "415.4d6acbeb.chunk.js.map": "/websitev2/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/websitev2/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ad454f0.css",
-    "static/js/main.b8a8c187.js"
+    "static/js/main.d80a9293.js"
   ]
 }
