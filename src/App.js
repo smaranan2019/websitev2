@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
-import Math from "./components/Math/Math";
+import MentalMath from "./components/MentalMath/MentalMath";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import {
@@ -40,7 +40,7 @@ function App() {
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
-          <Route path="/math" element={<Math />} />
+          <Route path="/math" element={<MentalMath />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
