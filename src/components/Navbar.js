@@ -99,6 +99,20 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/math"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiOutlineFundProjectionScreen
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Math
+              </Nav.Link>
+            </Nav.Item>
+            
+
           </Nav>
         </Navbar.Collapse>
       </Container>
